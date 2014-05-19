@@ -15,7 +15,6 @@ void printPowerSet(char *set, int set_size)
             {
                 printf("%c", set[j]);
             }
-
         }
         printf("\n");
     }
