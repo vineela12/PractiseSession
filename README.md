@@ -1,4 +1,4 @@
-PractiseSession
+PracticeSession
 ===============
 
-This Repository contains simple Examples which i practised.
+This repository contains simple examples which I practised.
